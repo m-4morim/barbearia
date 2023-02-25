@@ -1,12 +1,17 @@
 <html>
  <body>
   <h1>Barbearia</h1>
+  <blockquote>HTML e CSS</blockquote>
   <div align="center">
    <img src="https://img.shields.io/github/last-commit/m-4morim/barbearia?logo=git"/>
    <img src="https://img.shields.io/badge/status-completed-brightgreen"/>
   </div><br>
-  <p>Projeto de estudo para aprimorar de forma prática os conceitos adquiridos após um primeiro contato com os códigos.</p>
-  <p>As tecnologias implementadas foram o <strong>HTML e CSS</strong>.</p>
+  <p>Projeto de estudo para aprimorar de forma prática os conceitos adquiridos após um primeiro contato com o código. Trata-se de uma landing page de uma suposta barbearia, com informações de produtos e formulário para contato.</p><br>
+  <p align="center">Tecnologias implementadas:</p>
+  <div align="center" style="display: inline_block">
+    <img align="center" alt="Logo-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="Logo-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </div><br>
   <div>
    <p>Através desse ponto, pude:</p>
    <ul>
@@ -14,12 +19,13 @@
      <li>Aprender a sintaxe das tecnologias;</li>
      <li>Aplicar as propriedades necessárias para atender ao propósito do software.</li>
    </ul>
-  </div>
+  </div><br>
  </body>
  
 ##
- <footer align="center">
-   <p>⚡ O projeto foi criado através da plataforma de estudos online Alura:</p>
+ <footer>
+  <div align="center">
+   <p>⚡ O projeto foi criado através da plataforma de estudos online Alura:</p><br>
    <a href="https://cursos.alura.com.br/certificate/1411044a-962d-4bc7-9c71-0c70c39cd7dc">
     <img alt="Certificado" src="https://img.shields.io/badge/Certificado%201-sucess-brightgreen?style=flat-square" />
    </a>
@@ -32,5 +38,6 @@
    <a href="https://cursos.alura.com.br/certificate/edfec179-f578-4fcd-a544-ed7e75c1e597">
     <img alt="Certificado" src="https://img.shields.io/badge/Certificado%204-sucess-brightgreen?style=flat-square" />
    </a>
+  </div>
  </footer>
 </html>
